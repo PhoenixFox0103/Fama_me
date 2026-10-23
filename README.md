@@ -47,9 +47,6 @@ Les signalements communautaires doivent être distingués des informations offic
 
 La disponibilité et la fraîcheur des données issues de services externes dépendent de leurs sources. Pour une situation urgente, privilégiez les autorités et les services compétents.
 
-## Développement local
-
-Les prérequis, les commandes d’installation et de lancement, ainsi que les éventuelles variables d’environnement restent à documenter à partir du code du dépôt.
 
 ## Statut
 
